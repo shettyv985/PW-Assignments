@@ -1,0 +1,18 @@
+9. What are self-closing tags ? Write a brief note on meta tags.
+Self-closing tags, also known as void elements, are HTML tags that do not require a closing tag because they don't contain any content. They are used to insert various types of media or input elements into HTML documents, such as images, line breaks, input fields, and more.
+
+Some common self-closing tags in HTML include `<br>`, `<img>`, `<input>`, `<link>`, and `<meta>`.
+
+Meta tags are HTML elements that provide information about a webpage to search engines and web browsers. They are included in the head section of an HTML document and provide metadata about the page, such as the title of the page, the author of the content, the character encoding used on the page, and more.
+
+Meta tags can be used for a variety of purposes, such as improving search engine optimization (SEO), providing information for social media sharing, and controlling the behavior of web browsers. Some common meta tags include:
+
+1. `<title>`: This tag specifies the title of the webpage and is displayed in the browser's title bar and search engine results.
+
+2. `<meta name="description" content="...">`: This tag provides a brief description of the webpage, which is displayed in search engine results below the title.
+
+3. `<meta name="keywords" content="...">`: This tag specifies a list of keywords related to the content of the page, which can help with SEO.
+
+4. `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: This tag is used to control the size and scaling of the webpage on different devices, such as mobile phones and tablets.
+
+Overall, meta tags are a powerful tool for web developers to provide important information about their webpages to search engines and web browsers, which can help improve the user experience and visibility of their content.

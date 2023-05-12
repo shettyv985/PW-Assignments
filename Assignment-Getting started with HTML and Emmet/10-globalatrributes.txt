@@ -1,0 +1,14 @@
+10.What are global attributes? List any 5 global attributes.
+Global attributes in HTML are attributes that can be used with any HTML element, regardless of its type. These attributes can provide additional information about an element or specify how it should behave.
+
+Here are five examples of global attributes:
+
+    id: This attribute provides a unique identifier for an element, which can be used to target it with CSS or JavaScript.
+
+    class: This attribute specifies one or more classes that an element belongs to, which can be used to style it with CSS or select it with JavaScript.
+
+    style: This attribute allows developers to apply inline CSS styles to an element.
+
+    title: This attribute provides additional information about an element, which is displayed as a tooltip when the user hovers over it.
+
+    data-*: This attribute is used to store custom data attributes that can be accessed by JavaScript. The * in the attribute name can be replaced with any name to create a custom data attribute.

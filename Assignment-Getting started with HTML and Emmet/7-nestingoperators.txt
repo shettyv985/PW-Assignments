@@ -1,0 +1,17 @@
+7.Explain in brief about the nesting operators in emmet.
+
+Nesting operators in Emmet are symbols used to indicate the relationship between different elements in HTML and CSS code. They allow developers to quickly and easily create complex nested structures without having to manually write out each element and its corresponding closing tag.
+
+The following are the most commonly used nesting operators in Emmet:
+
+1. `>` (Child selector): This operator is used to select direct children of an element. For example, the following code selects all `<li>` elements that are direct children of a `<ul>` element:
+ul > li
+2. `+` (Adjacent sibling selector): This operator is used to select the next sibling element that immediately follows the selected element. For example, the following code selects the `<p>` element that immediately follows an `<h1>` element:
+h1 + p
+3. `^` (Parent selector): This operator is used to select the parent of the selected element. For example, the following code selects the `<div>` element that contains an `<h1>` element:
+h1 ^ div
+4. `*` (Multiplication operator): This operator is used to repeat an element a specified number of times. For example, the following code creates five `<li>` elements:
+li*5
+5. `()` (Grouping operator): This operator is used to group multiple elements together. For example, the following code creates a list item that contains a link and an image:
+li>(a>img)
+Overall, nesting operators in Emmet enable developers to quickly and easily create complex, nested HTML and CSS structures, making it an invaluable tool for web development.

@@ -1,0 +1,20 @@
+3. Write a short note on tags, elements, and attributes along with relevant examples
+Tags, elements, and attributes are fundamental components of HTML, which is a markup language used to create and structure web pages.
+
+Tags are used to define the beginning and end of an element in HTML. An element is a piece of content in an HTML document, such as a paragraph or an image. Tags are denoted by angle brackets (< >) and are typically used in pairs, with the opening tag preceding the content and the closing tag following the content.
+
+For example, the following code defines a paragraph element using the <p> tag:
+<p>This is a paragraph.</p>
+
+Elements can also contain other elements, which are nested inside the parent element. For example, the following code defines a div element that contains an h1 heading and a paragraph:
+<div>
+  <h1>Heading</h1>
+  <p>This is a paragraph.</p>
+</div>
+
+Attributes provide additional information about an element, such as its source URL or style. Attributes are added to an element's opening tag and consist of a name and a value separated by an equals sign (=) and enclosed in quotation marks (" ").
+
+For example, the following code defines an image element with a src attribute that specifies the image source URL:
+<img src="image.jpg" alt="An image">
+
+In summary, tags define the beginning and end of an element, elements are pieces of content in an HTML document, and attributes provide additional information about an element. Understanding these components is essential for creating and structuring web pages using HTML.

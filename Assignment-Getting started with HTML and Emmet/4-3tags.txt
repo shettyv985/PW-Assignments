@@ -1,0 +1,10 @@
+4. List out any 3 tags we learned in this module and give a brief explanation about the tags
+
+<h1> - The <h1> tag is used to define a heading in HTML, with the number indicating the level of importance. This is the most important heading level, and it is typically used for the main title of a page.
+<h1>This is the main title</h1>
+
+<a> - The <a> tag is used to create a hyperlink in HTML, allowing the user to click on a link and be directed to another webpage or location within the same webpage. The link is defined using the href attribute.
+<a href="https://www.example.com">Click here to go to Example website</a>
+
+<img> - The <img> tag is used to insert an image into an HTML document. The source of the image is defined using the src attribute. The alt attribute is used to provide alternative text that will be displayed if the image cannot be loaded.
+<img src="image.jpg" alt="A beautiful image">
