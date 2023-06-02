@@ -1,0 +1,21 @@
+Web accessibility refers to the practice of designing and developing websites and web content in a way that makes them usable and accessible to all people, including those with disabilities. It involves creating an inclusive online environment that allows people with various disabilities to perceive, understand, navigate, interact with, and contribute to the web.
+
+Assistive devices are tools or technologies that help individuals with disabilities to interact with and access digital content. Here are some commonly used assistive devices that play a major role in providing web accessibility:
+
+1. Screen Readers: Screen readers are software applications that read aloud the text displayed on a computer screen. They convert text into synthesized speech, allowing people with visual impairments to navigate and interact with web content.
+
+2. Screen Magnifiers: Screen magnifiers enlarge the content displayed on the screen, making it easier for individuals with visual impairments to read and perceive the information.
+
+3. Braille Displays: Braille displays are devices that convert on-screen text into Braille characters, providing tactile feedback to individuals who are blind or have severe visual impairments.
+
+4. Keyboard Navigators: Keyboard navigators are alternative input devices that allow individuals with mobility impairments or limited dexterity to navigate through web pages using keyboard commands instead of a mouse.
+
+5. Voice Recognition Software: Voice recognition software enables users to control and navigate websites using voice commands. It helps individuals with mobility impairments or those who have difficulty using a keyboard or mouse.
+
+6. Alternative Input Devices: There are various alternative input devices available, such as sip-and-puff switches, eye-tracking systems, and switches operated by head movements, which provide input methods for individuals with severe physical disabilities.
+
+7. Captioning and Transcription Tools: Captioning and transcription tools provide text alternatives for multimedia content, such as videos and audio recordings, making them accessible to individuals with hearing impairments or those who prefer text-based content.
+
+8. Assistive Listening Devices: Assistive listening devices, such as hearing aids and personal amplifiers, enhance the sound quality and volume for individuals with hearing impairments, helping them to access audio content.
+
+These are just a few examples of assistive devices that contribute to web accessibility. By considering the needs of individuals with disabilities and ensuring compatibility with assistive technologies, websites can become more inclusive and provide equal access to information and services for all users.
