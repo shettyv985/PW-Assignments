@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #252B48;
+}
+
+h1{
+    text-align: center;
+    background-color: #FF6969;
+    font-size:100px;
+    color: #141E46;
+}
+
+p{
+    border: 3px double #141E46;
+    margin: 50px;
+    color: #BB2525;
+    background-color: #FFF5E0;
+}

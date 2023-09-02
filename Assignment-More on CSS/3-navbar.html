@@ -1,0 +1,71 @@
+<!-- 3. Create a navigation bar similar to question 1. For each navigation item use a different border style. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>navbar</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        nav{
+            background-color: skyblue;
+            padding: 0 25px;
+            display: flex;
+            align-items: center;
+            gap:50px;
+            height: 70px;
+            font-size: large;
+            font-weight: 700;
+        }
+
+        .home{
+            border: 2px solid black;
+        }
+        .abtus{
+            border: 2px dotted rgb(248, 17, 17);
+        }
+
+        .cnct{
+            border: 2px double rgb(75, 248, 32);
+        }
+
+        .blog{
+            border: 2px dashed rgb(226, 13, 77);
+        }
+        .login{
+            border: 2px groove rgb(2, 105, 45);
+        }
+
+        .home:hover{
+            color: #c14fff;
+        }
+        .abtus:hover{
+            color: #62f545;
+        }
+        .cnct:hover{
+            color: #ffa237;
+        }
+        .blog:hover{
+            color: #ce2323;
+        }
+        .login:hover{
+            color: #000000;
+        }
+        
+
+
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#" class="home">Home</a>
+        <a href="#" class="abtus">AboutUs</a>
+        <a href="#" class="cnct">Contact</a>
+        <a href="#" class="blog">Blog</a>
+        <a href="#" class="login">Login</a>
+    </nav>
+</body>
+</html>

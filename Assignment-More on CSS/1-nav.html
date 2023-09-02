@@ -1,0 +1,53 @@
+<!-- 1. Create a navigation bar similar to the below-mentioned image. The navigation bar must contain 5 navigation links that are properly placed within the navigation bar using the CSS box model. The navigation items must change their text color on hover. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>navbar</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        nav{
+            background-color: skyblue;
+            padding: 0 25px;
+            display: flex;
+            align-items: center;
+            gap:50px;
+            height: 70px;
+            font-size: large;
+            font-weight: 700;
+        }
+
+        .home:hover{
+            color: #c14fff;
+        }
+        .abtus:hover{
+            color: #62f545;
+        }
+        .cnct:hover{
+            color: #ffa237;
+        }
+        .blog:hover{
+            color: #ce2323;
+        }
+        .login:hover{
+            color: #000000;
+        }
+        
+
+
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#" class="home">Home</a>
+        <a href="#" class="abtus">AboutUs</a>
+        <a href="#" class="cnct">Contact</a>
+        <a href="#" class="blog">Blog</a>
+        <a href="#" class="login">Login</a>
+    </nav>
+</body>
+</html>
